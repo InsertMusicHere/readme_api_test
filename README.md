@@ -1,27 +1,6 @@
 \# readme\_api\_test
 
-**Sample README.md Template**
-
-```markdown
-# Project Name
-## Introduction
-Brief introduction to the project. This project aims to [briefly describe the project and its purpose].
-## Features
-* **Feature 1**: Description of feature 1
-* **Feature 2**: Description of feature 2
-* **Feature 3**: Description of feature 3
-## Installation
-To install the project, follow these steps:
-1. **Step 1**: Install the required dependencies using `npm install` or `yarn install`
-2. **Step 2**: Configure the environment variables in the `.env` file
-3. **Step 3**: Run the project using `npm start` or `yarn start`
-## Usage
-### Example Usage
-```
-
-# Example usage of the project
-
-node index.js
+😀
 
 ```plaintext
 ### API Documentation
@@ -49,5 +28,3 @@ The project depends on the following dependencies:
 ### v1.0.0
 * Initial release of the project
 ```
-
-This template provides a basic structure for your **README.md** file, including sections for introduction, features, installation, usage, contributing, license, badges, dependencies, and changelog. You can customize it to fit your specific project's needs.
