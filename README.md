@@ -2,7 +2,6 @@
 
 😀
 
-```plaintext
 ### API Documentation
 The project provides the following API endpoints:
 * **GET /api/data**: Retrieve data from the API
@@ -27,4 +26,3 @@ The project depends on the following dependencies:
 ## Changelog
 ### v1.0.0
 * Initial release of the project
-```
