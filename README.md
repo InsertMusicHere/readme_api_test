@@ -1,17 +1,17 @@
 # Demo Project
 ## Table of Contents
 ## Introduction
-1. \[Introduction\](#introduction)
+1. [Introduction\](#introduction)
 
-2. \[Features\](#features)
+2. [Features\](#features)
 
-3. \[Installation\](#installation)
+3. [Installation\](#installation)
 
-4. \[Usage\](#usage)
+4. [Usage\](#usage)
 
-5. \[Contributing\](#contributing)
+5. [Contributing\](#contributing)
 
-6. \[License\](#license)
+6. [License\](#license)
 
 This is a demo project created to showcase a simple GitHub repository. The project aims to provide a basic template for new projects.
 
